@@ -13,4 +13,6 @@
 ## 🗺️ Information
 부족한 병변 이미지를 보완하기 위해 이미지 증강 방식을 사용하고 빠른 모델 도출을 위해 MoblieNet 전이학습 모델을 사용
 
-
+| | | |
+| -------- | -------- | -------- |
+| <img src="" width="90" height="90">| <img src="" width="90" height="90">| <img src="" width="90" height="90">|
