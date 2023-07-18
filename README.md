@@ -2,7 +2,7 @@
 <div align=Left>
 <img src="https://img.shields.io/badge/Deep Learning-000000?style=round-square&logo=Deep Learning&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer Vision-3C2179?style=round-square&logo=Computer Vision&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=round-square&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=round-square&logo=Pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/MobileNet-00FFFF?style=round-square&logo=Yolo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Image Augmentation-CC0000?style=round-square&logo=Mask RCNN&logoColor=white"/>
 </div>
