@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Image Augmentation-CC0000?style=round-square&logo=Mask RCNN&logoColor=white"/>
 </div>
 
-> 황반변성 안저 사진을 사용한 진단 모델 연구개발 (macular degeneration Diagnosis classification model) <br>
+> 황반변성 안저 사진을 사용한 진단 모델 연구개발 (Macular Degeneration Diagnosis classification model) <br>
 
 
 ## 🗺️ Information
